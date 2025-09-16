@@ -10,4 +10,6 @@ I'm Joshua Silva
 
   * Have been an UGTA, or UnderGraduate Teacher's Assistant. Pretty much the assistant to the assistant.
 
+  * Doing Research with Dr.Guo involving HVAC control using IoT, crowdsensing, numerical modeling, and AI  
+
   * Contact Me: jysilva10052@gmail.com 
