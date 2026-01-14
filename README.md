@@ -2,14 +2,14 @@
 
 I'm Joshua Silva
 
-  * Studying for a Computer Engineering Degree at Clemson University
+  * Computer Engineering B.S. from Clemson University's Holcombe Department of Electrical and Computer Engineering
 
-  * Currently in Senior Year, graduating in December 2025 :)
+  * Did a Co-op for a year at Bosch gathering OEE production data. Gathered from user forms and HMIs, completing the digitization the entire process.
 
-  * Did a Co-op for a year at Bosch
+  * Have been an UGTA, or UnderGraduate Teacher's Assistant. Helping teach Circuit labs by guiding students in the use of lab equipment and software such as LTSpice
 
-  * Have been an UGTA, or UnderGraduate Teacher's Assistant. Pretty much the assistant to the assistant.
+  * Did Research with Dr.Guo involving HVAC control using IoT, crowdsensing, numerical modeling, and AI
 
-  * Doing Research with Dr.Guo involving HVAC control using IoT, crowdsensing, numerical modeling, and AI  
+  * Did a Michelin sponsored project involving AB PLCs, FANUC Cobot, and MechMind Machine Vision for loading rubber onto a conveyor
 
   * Contact Me: jysilva10052@gmail.com 
